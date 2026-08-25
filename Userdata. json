@@ -12,14 +12,8 @@
         "Allowoffline": false
     },
 {
-        "device_id": "481b0a7bea412113",
-        "key": "key2001",
-        "expirydate": "21-09-2026",
-        "Allowoffline": false
-    },
-{
         "device_id": "b3303c257a3fd33c",
-        "key": "2010",
+        "key": "key2001",
         "expirydate": "21-09-2026",
         "Allowoffline": false
     },
